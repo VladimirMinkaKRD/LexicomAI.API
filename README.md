@@ -54,6 +54,8 @@ DROP COLUMN short_name;
 заполнить ее именами файлов без расширений с помощью регулярного выражения.
 В остальном решение похоже на первое решение. Последним запросом удаляем временную колонку.
 
-Благодарю за уделенно время! Минка Владимир Python developer +7(918)010-86-43 telegram: https://t.me/VladimirKRD123![Создание таблицы shortname](https://github.com/VladimirMinkaKRD/LexicomAI.API/assets/125747669/715220ce-4f23-4e05-8f41-509faf7c66ce)
+Благодарю за уделенно время! Минка Владимир Python developer +7(918)010-86-43 telegram: https://t.me/VladimirKRD123
+
+![Создание таблицы shortname](https://github.com/VladimirMinkaKRD/LexicomAI.API/assets/125747669/715220ce-4f23-4e05-8f41-509faf7c66ce)
 ![Создание таблицы fullname](https://github.com/VladimirMinkaKRD/LexicomAI.API/assets/125747669/ec134bac-fb68-4d11-b417-ba73f0e4fb92)
 ![Результат](https://github.com/VladimirMinkaKRD/LexicomAI.API/assets/125747669/e6801158-c87e-4496-866b-2b65c9d31105)
